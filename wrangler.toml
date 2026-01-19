@@ -1,0 +1,8 @@
+name = "codev-bot"
+main = "src/index.js"
+compatibility_date = "2026-01-19"
+
+# Переменные окружения (добавьте через Cloudflare Dashboard):
+# BOT_TOKEN - токен Telegram бота
+# DATABASE_URL - URL PostgreSQL базы данных
+# IMGBB_API_KEY - ключ API ImgBB
